@@ -1,5 +1,7 @@
 # Fraud Transaction Detection Web App 💳
 
+**🌐 Live Demo:** [https://fraud-detection-webum.streamlit.app/](https://fraud-detection-webum.streamlit.app/)
+
 An enterprise-grade Streamlit web application that detects fraudulent financial transactions using Machine Learning. It automatically scores real-time transactions by comparing immediate inputs against historical customer and terminal behaviour. Built as part of the Unified Mentor Internship Project.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
